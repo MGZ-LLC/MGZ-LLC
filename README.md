@@ -1,4 +1,6 @@
-# MGZ Consulting LLC
+![Company Logo](https://github.com/MGZ-LLC/MGZ-LLC/blob/main/media/Logo_MGZ_Consulting_LLC.png?raw=true)
+
+# About Us
 
 
 MGZ Consulting LLC works with and on Open Source Hardware and Software.
